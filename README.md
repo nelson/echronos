@@ -25,6 +25,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 @TAG(NICTA_DOC_AGPL)
   -->
 
+[![Build status](https://ci.appveyor.com/api/projects/status/u0l9tcx3r8x9fwj0/branch/development?svg=true)](https://ci.appveyor.com/project/stefangotz/echronos/branch/development)
+
+
 # Yes, We Are Open for Business
 
 If you have any questions, send us an e-mail to echronos@trustworthy.systems or tweet at us @echronosrtos.
